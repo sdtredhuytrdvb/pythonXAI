@@ -1,3 +1,3 @@
 import streamlit as n
 
-n.title("首是網頁")
+n.title("這是首頁")

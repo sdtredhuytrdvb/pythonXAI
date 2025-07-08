@@ -143,7 +143,3 @@ pi = 3.14
 r = float(input("請輸入半徑"))
 Area = pi * r**2
 print(Area)
-
-import streamlit as n
-
-n.title("這是網頁")
