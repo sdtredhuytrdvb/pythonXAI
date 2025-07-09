@@ -15,4 +15,4 @@ n.write("金字塔桑")
 
 t = n.number_input("Number", min_value=1, max_value=9, step=1)
 for i in range(1, t + 1):
-    n.write(f"{i}" * i)  # ***
+    n.write(f"{i}" * i)  # *Question
