@@ -3,8 +3,6 @@ import streamlit as n
 with n.expander("Class 1的筆記"):
     n.title(
         ''' 
-
-        ---
         🐍 Python 小筆記
 
 ### 🔸 一開始要知道的事
@@ -139,7 +137,6 @@ print(a + " " + b)
 with n.expander("Class 2的筆記"):
     n.title(
         """
----
 
 # 🐍【今天學到的 Python 知識筆記】✨
 
