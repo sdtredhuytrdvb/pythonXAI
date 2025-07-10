@@ -13,7 +13,7 @@ col2.button("button4", key="btn4")
 col1, col2, col3 = n.columns([1, 2, 3])
 col1.button("button5", key="btn5")
 col2.button("button6", key="btn6")
-col1.button("button7", key="btn7")
+col3.button("button7", key="btn7")
 
 col1, col2 = n.columns([1, 2])
 with col1:
