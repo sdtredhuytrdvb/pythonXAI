@@ -32,6 +32,8 @@ print(not False)  # True
 # 6. not
 # 7. and
 # 8. or
+# 9. = += -= *= /= //= %= **= 算術指定運算子
+
 password = input("請輸入密碼：")
 if password == "!@#$%^%$#@#$%^%$#@!@#$%^&^$@":
     print("不歡迎,88888888")
